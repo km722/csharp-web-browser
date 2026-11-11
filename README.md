@@ -27,3 +27,7 @@ Needs Windows and the .NET 8 SDK.
 To run the tests:
 
     dotnet test
+
+## Notes
+
+This repo holds the source code and tests only. The coursework report and brief are not included.
