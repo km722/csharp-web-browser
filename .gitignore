@@ -19,7 +19,7 @@ packages/
 *.db-wal
 
 # User-specific data directories
-data/
+/data/
 
 # Windows
 Thumbs.db
