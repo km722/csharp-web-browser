@@ -1,0 +1,33 @@
+# Build results
+bin/
+obj/
+*.user
+*.suo
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.code-workspace
+
+# NuGet
+packages/
+*.nupkg
+
+# Database files (user-specific)
+*.db
+*.db-shm
+*.db-wal
+
+# User-specific data directories
+data/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Rider
+.idea/
+
